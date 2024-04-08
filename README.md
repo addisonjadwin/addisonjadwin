@@ -1,7 +1,15 @@
-# [Your Name]
+# Addison Jadwin
 
 ## Bio
-[Short bio introducing yourself. You can mention your interests, what you're passionate about, and what you're currently working on.]
+Hello! I'm Addison, a coterm masters student and ML researcher at Stanford. Below are some projects & information demonstrating my experience!
+
+
+
+## Projects
+- **Improving minBERT MulCtask Performance through In-Domain Pretraining and NRL Learning** - [Link to Project](https://www.researchgate.net/publication/369901299_Improving_minBERT_Performance_on_Multiple_Tasks_through_In-domain_Pretraining_Negatives_Ranking_Loss_Learning_and_Hyperparameter_Optimization)
+  - [Short description of the project, technologies used, and your role/contribution.]
+- **[Project Name]** - [Link to Project](URL)
+  - [Short description of the project, technologies used, and your role/contribution.]
 
 ## Education
 - **[Degree] in [Field of Study]** - [University/College Name] (Year of Graduation)
@@ -14,12 +22,6 @@
   - [Brief description of your responsibilities and achievements in this role.]
 - **[Job Title]** - [Company Name] (Month Year - Month Year)
   - [Brief description of your responsibilities and achievements in this role.]
-
-## Projects
-- **[Project Name]** - [Link to Project](URL)
-  - [Short description of the project, technologies used, and your role/contribution.]
-- **[Project Name]** - [Link to Project](URL)
-  - [Short description of the project, technologies used, and your role/contribution.]
 
 ## Skills
 - Programming Languages: [List of programming languages you're proficient in]
