@@ -22,14 +22,14 @@ Hello! I'm Addison, a coterm masters student and ML researcher at Stanford. Belo
 
 
 ## Education
-- **MS in Computer Science (AI concentration)** - Stanford University (2024)
+- **🎓 MS in Computer Science (AI concentration)** - Stanford University (2024)
   - Project & Coursework experience in ML/NLP.
-- **BS in Symbolic Systems** - Stanford University (2023)
+- **🎓 BS in Symbolic Systems** - Stanford University (2023)
   - GPA: 3.99
  
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/ajadwin/
-- Email: addisonjadwin@hotmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/ajadwin/
+- 📩 Email: addisonjadwin@hotmail.com
 
 <!--
 ## Work Experience
