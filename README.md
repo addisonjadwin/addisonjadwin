@@ -1,7 +1,7 @@
 # Addison Jadwin
 
 ## Bio
-Hello! I'm Addison, a coterm masters student and ML researcher at Stanford. Below are some projects, experiences, and information demonstrating my experience!
+Hello! I'm Addison, a coterm masters student and ML researcher at Stanford. Below are some projects, experiences, and information demonstrating my experience.
 
 ## Projects
 - **Improving minBERT Multitask Performance through In-Domain Pretraining and NRL Learning** - [Link](https://www.researchgate.net/publication/369901299_Improving_minBERT_Performance_on_Multiple_Tasks_through_In-domain_Pretraining_Negatives_Ranking_Loss_Learning_and_Hyperparameter_Optimization)
@@ -14,8 +14,6 @@ Hello! I'm Addison, a coterm masters student and ML researcher at Stanford. Belo
   - We modeled 3rd-order recursive reasoning (reasoning about how another agent reasons about you) in a helping/hindering grid world scenario. Using online MDP planning algorithms, we were able to simulate intelligently-behaving agents which outperformed baseline models.
 - **Emotion Classification on EEG BMI Data with an LSTM+Conv Architecture** - [Link](https://drive.google.com/file/d/1Xu2JApRhIVjK-7Tp3H4m9KAKj7qv11nb/view?usp=sharing)
   - We beat the SOTA on an EEG brainwave dataset on emotion classification using a novel architecture with a combination of convolutional and LSTM layers, achieving 99.2% accuracy on the test data.
-- **Categorization of Objects Through Causal Properties in Recurrent Neural Networks** - [Link](https://drive.google.com/file/d/1YrOp5wnt-EOAnRDK9k_ky8hkbv3OwAoe/view?usp=sharing)
-  - I construct small 'object worlds' and train an RNN to distinguish the different objects by their causal properties (i.e. which other objects they effect and which objects effect them) by observing sequences of events. I also analyze the representations the RNN learns of the objects and how it learns them with different mathematical techniques.
 - **Predictive Capabilities of Neural Network Language Models on Brain Data** - [Link](https://drive.google.com/file/d/1r3z0lM2dEEdqnnj3czdZkAnxVQou9zzr/view?usp=sharing)
   - I review the ability of language models (LLMs as well as early models like simple RNNs or word vector models) in predicting neural language processing data.
 - **Self-Supervised & Unsupervised Neural Network Models of Auditory Processing in the Brain** - [Link](https://drive.google.com/file/d/1IxNdWHx69o_WgO0u4hRTnySVnehMEsp9/view?usp=sharing)
