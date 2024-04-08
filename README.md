@@ -1,7 +1,7 @@
 # Addison Jadwin
 
 ## Bio
-Hello! I'm Addison, a coterm masters student and ML researcher at Stanford. Below are some projects, experiences, and information demonstrating my experience.
+Hello! I'm Addison, a coterm masters student and ML researcher at Stanford. Below are some projects demonstrating my experience.
 
 ## Projects
 - **📈 Improving minBERT Multitask Performance through In-Domain Pretraining and NRL Learning** - [Link](https://www.researchgate.net/publication/369901299_Improving_minBERT_Performance_on_Multiple_Tasks_through_In-domain_Pretraining_Negatives_Ranking_Loss_Learning_and_Hyperparameter_Optimization)
