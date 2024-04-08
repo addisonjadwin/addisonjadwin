@@ -25,6 +25,7 @@ Hello! I'm Addison, a coterm masters student and ML researcher at Stanford. Belo
 - **🎓 MS in Computer Science (AI concentration)** - Stanford University (2024)
   - Project & Coursework experience in ML/NLP.
 - **🎓 BS in Symbolic Systems** - Stanford University (2023)
+  - Computational cognitive science research experience in the Causality in Cognition Lab
   - GPA: 3.99
  
 ## Contact
