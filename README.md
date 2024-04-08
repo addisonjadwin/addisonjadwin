@@ -22,26 +22,31 @@ Hello! I'm Addison, a coterm masters student and ML researcher at Stanford. Belo
 
 
 ## Education
-- **[Degree] in [Field of Study]** - [University/College Name] (Year of Graduation)
-  - [Optional: Brief description of relevant coursework, honors, or achievements.]
-- **[Degree] in [Field of Study]** - [University/College Name] (Year of Graduation)
-  - [Optional: Brief description of relevant coursework, honors, or achievements.]
+- **MS in Computer Science (AI concentration)** - Stanford University (2024)
+  - Project & Coursework experience in ML/NLP.
+- **BS in Symbolic Systems** - Stanford University (2023)
+  - GPA: 3.99
+ 
+## Contact
+- LinkedIn: https://www.linkedin.com/in/ajadwin/
+- Email: addisonjadwin@hotmail.com
 
+<!--
 ## Work Experience
-- **[Job Title]** - [Company Name] (Month Year - Month Year)
-  - [Brief description of your responsibilities and achievements in this role.]
-- **[Job Title]** - [Company Name] (Month Year - Month Year)
-  - [Brief description of your responsibilities and achievements in this role.]
+- **Machine Learning Intern** - NIO (Jun - Sep 2023)
+  - I built large transformer/autoencoder models to predict anomalous behavior in a dataset of unlabeled software log files. To do this, I leveraged insights from recently published papers in additioning to developing my own architecture and data processing pipeline.
+- **Research Assistant** - Causality in Cognition Lab (Dec 2020 - Present)
+  - I've led a long-term research project at Stanford aimed at building computational models to predict human decision-making in experiments related to causal responsibility judgments. To do this, I've worked with Bayesian regression models and linear mixed-effects models in R.
+- **Software Engineering Intern** - Managed Discovery ( 2020 - Present)
+  - I've led a long-term research project at Stanford aimed at building computational models to predict human decision-making in experiments related to causal responsibility judgments. To do this, I've worked with Bayesian regression models and linear mixed-effects models in R.
 
 ## Skills
 - Programming Languages: [List of programming languages you're proficient in]
 - Tools & Technologies: [List of tools, frameworks, libraries, etc. you're experienced with]
 - Other Skills: [Any other relevant skills]
+-->
 
-## Contact
-- LinkedIn: [Your LinkedIn Profile](URL)
-- GitHub: [Your GitHub Profile](URL)
-- Email: [Your Email Address](mailto:youremail@example.com)
+
 
 
 <!--
