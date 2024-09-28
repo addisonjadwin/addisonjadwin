@@ -26,7 +26,7 @@ Hello! I'm Addison, a coterm masters student and ML researcher at Stanford. Belo
   - Project & Coursework experience in ML/NLP.
   - ML Internship @ NIO
   - Neuroscience research experience in the Gardner Lab
-- **🎓 BS in Symbolic Systems** - Stanford University (2023)
+- **🎓 BS in Symbolic Systems** - Stanford University
   - Computational cognitive science research experience in the Causality in Cognition Lab
   - SWE Internship @ Managed Discovery
   - GPA: 3.99
