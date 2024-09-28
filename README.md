@@ -22,7 +22,7 @@ Hello! I'm Addison, a coterm masters student and ML researcher at Stanford. Belo
 
 
 ## Education
-- **🎓 MS in Computer Science (AI concentration)** - Stanford University (2024)
+- **🎓 MS in Computer Science (AI concentration)** - Stanford University
   - Project & Coursework experience in ML/NLP.
   - ML Internship @ NIO
   - Neuroscience research experience in the Gardner Lab
